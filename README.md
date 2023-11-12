@@ -1,11 +1,13 @@
-Wonde API Demo
+# Wonde API Demo
 
-Project Set up
+## Project Set up
 
--> sail up
--> sail composer install
--> sail npm i
--> sail npm run build
--> Update API key in .env
--> sail php artisan config:cache
--> open http://localhost/
+<ul>
+    <li>sail up</li>
+    <li>sail composer install</li>
+    <li>sail npm i</li>
+    <li>sail npm run build</li>
+    <li>Update API key in .env</li>
+    <li>sail php artisan config:cache</li>
+    <li>open http://localhost/</li>
+</ul>
