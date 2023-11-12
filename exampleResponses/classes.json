@@ -1,0 +1,1182 @@
+{
+    "data": [
+        {
+            "id": "A1368212571",
+            "mis_id": "15608",
+            "name": "10A/As1",
+            "code": null,
+            "description": "10A/As1",
+            "subject": "A1787713350",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:43.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1468013042",
+            "mis_id": "15575",
+            "name": "10A/Ci",
+            "code": null,
+            "description": "10A/Ci",
+            "subject": "A166158236",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:36.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1837415821",
+            "mis_id": "15606",
+            "name": "10A/Co1",
+            "code": null,
+            "description": "10A/Co1",
+            "subject": "A344905578",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:43.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1677414692",
+            "mis_id": "15607",
+            "name": "10A/Da1",
+            "code": null,
+            "description": "10A/Da1",
+            "subject": "A713911045",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:43.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A2046816959",
+            "mis_id": "15604",
+            "name": "10A/Dr1",
+            "code": null,
+            "description": "10A/Dr1",
+            "subject": "A768279842",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:43.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A2146604630",
+            "mis_id": "15605",
+            "name": "10A/Mu1",
+            "code": null,
+            "description": "10A/Mu1",
+            "subject": "A1014524746",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:43.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1978739681",
+            "mis_id": "15609",
+            "name": "10A/Pe1",
+            "code": null,
+            "description": "10A/Pe1",
+            "subject": "A847187173",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:43.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A200658808",
+            "mis_id": "15617",
+            "name": "10B/Ar1a",
+            "code": null,
+            "description": "10B/Ar1a",
+            "subject": "A1442015254",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:37.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A32006931",
+            "mis_id": "15619",
+            "name": "10B/Ar1b",
+            "code": null,
+            "description": "10B/Ar1b",
+            "subject": "A1442015254",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A133104810",
+            "mis_id": "15615",
+            "name": "10B/Bs1",
+            "code": null,
+            "description": "10B/Bs1",
+            "subject": "A1743340243",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A501471301",
+            "mis_id": "15576",
+            "name": "10B/Ci",
+            "code": null,
+            "description": "10B/Ci",
+            "subject": "A166158236",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:36.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A333872604",
+            "mis_id": "15614",
+            "name": "10B/Co1",
+            "code": null,
+            "description": "10B/Co1",
+            "subject": "A344905578",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A702878071",
+            "mis_id": "15613",
+            "name": "10B/Ec1",
+            "code": null,
+            "description": "10B/Ec1",
+            "subject": "A969046612",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A802796814",
+            "mis_id": "15616",
+            "name": "10B/Fn1",
+            "code": null,
+            "description": "10B/Fn1",
+            "subject": "A545262748",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A635197081",
+            "mis_id": "15618",
+            "name": "10B/Pt1",
+            "code": null,
+            "description": "10B/Pt1",
+            "subject": "A2056328860",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1003547184",
+            "mis_id": "15611",
+            "name": "10B/So1",
+            "code": null,
+            "description": "10B/So1",
+            "subject": "A105779491",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A836210635",
+            "mis_id": "15612",
+            "name": "10B/Te1",
+            "code": null,
+            "description": "10B/Te1",
+            "subject": "A675671020",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A935994210",
+            "mis_id": "15577",
+            "name": "10C/Ci",
+            "code": null,
+            "description": "10C/Ci",
+            "subject": "A166158236",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:36.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1305396477",
+            "mis_id": "15622",
+            "name": "10C/Gg1",
+            "code": null,
+            "description": "10C/Gg1",
+            "subject": "A1378534773",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1137547412",
+            "mis_id": "15623",
+            "name": "10C/Gg2",
+            "code": null,
+            "description": "10C/Gg2",
+            "subject": "A1378534773",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1505770543",
+            "mis_id": "15620",
+            "name": "10C/Hi1",
+            "code": null,
+            "description": "10C/Hi1",
+            "subject": "A1880758112",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1606734278",
+            "mis_id": "15621",
+            "name": "10C/Hi2",
+            "code": null,
+            "description": "10C/Hi2",
+            "subject": "A1880758112",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1413182801",
+            "mis_id": "15624",
+            "name": "10C/Re1",
+            "code": null,
+            "description": "10C/Re1",
+            "subject": "A1349279440",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1782453992",
+            "mis_id": "15625",
+            "name": "10C/Re2",
+            "code": null,
+            "description": "10C/Re2",
+            "subject": "A1349279440",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1613933187",
+            "mis_id": "15578",
+            "name": "10D/Ci",
+            "code": null,
+            "description": "10D/Ci",
+            "subject": "A166158236",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:36.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1714507290",
+            "mis_id": "15579",
+            "name": "10E/Ci",
+            "code": null,
+            "description": "10E/Ci",
+            "subject": "A166158236",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:36.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A2083906485",
+            "mis_id": "15580",
+            "name": "10F/Ci",
+            "code": null,
+            "description": "10F/Ci",
+            "subject": "A166158236",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:36.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1915258700",
+            "mis_id": "15601",
+            "name": "10x/Bi1",
+            "code": null,
+            "description": "10x/Bi1",
+            "subject": "A1811287457",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:44.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A137320679",
+            "mis_id": "15602",
+            "name": "10x/Ch1",
+            "code": null,
+            "description": "10x/Ch1",
+            "subject": "A1944107525",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:36.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A237239422",
+            "mis_id": "15581",
+            "name": "10x/En1",
+            "code": null,
+            "description": "10x/En1",
+            "subject": "A902148998",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A69636105",
+            "mis_id": "15582",
+            "name": "10x/En2",
+            "code": null,
+            "description": "10x/En2",
+            "subject": "A902148998",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A438646176",
+            "mis_id": "15583",
+            "name": "10x/En3",
+            "code": null,
+            "description": "10x/En3",
+            "subject": "A902148998",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A270125371",
+            "mis_id": "15587",
+            "name": "10x/Fr1",
+            "code": null,
+            "description": "10x/Fr1",
+            "subject": "A1077733544",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A370961106",
+            "mis_id": "15585",
+            "name": "10x/Fr2",
+            "code": null,
+            "description": "10x/Fr2",
+            "subject": "A1077733544",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A739446381",
+            "mis_id": "15588",
+            "name": "10x/Ge1",
+            "code": null,
+            "description": "10x/Ge1",
+            "subject": "A1547051482",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:37.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A571974148",
+            "mis_id": "15586",
+            "name": "10x/Ge2",
+            "code": null,
+            "description": "10x/Ge2",
+            "subject": "A1547051482",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A940197791",
+            "mis_id": "15595",
+            "name": "10x/Pe1",
+            "code": null,
+            "description": "10x/Pe1",
+            "subject": "A847187173",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:42.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1040784182",
+            "mis_id": "15596",
+            "name": "10x/Pe2",
+            "code": null,
+            "description": "10x/Pe2",
+            "subject": "A847187173",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:42.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A873315521",
+            "mis_id": "15597",
+            "name": "10x/Pe3",
+            "code": null,
+            "description": "10x/Pe3",
+            "subject": "A847187173",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:41.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1241534552",
+            "mis_id": "15603",
+            "name": "10x/Ph1",
+            "code": null,
+            "description": "10x/Ph1",
+            "subject": "A1215537276",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:44.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1074066931",
+            "mis_id": "15599",
+            "name": "10x/Sc1",
+            "code": null,
+            "description": "10x/Sc1",
+            "subject": "A2120048847",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:44.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1182501258",
+            "mis_id": "15600",
+            "name": "10x/Sc2",
+            "code": null,
+            "description": "10x/Sc2",
+            "subject": "A2120048847",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:44.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1551772965",
+            "mis_id": "15589",
+            "name": "10xz/Ma1",
+            "code": null,
+            "description": "10xz/Ma1",
+            "subject": "A536949272",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1383255740",
+            "mis_id": "15590",
+            "name": "10xz/Ma2",
+            "code": null,
+            "description": "10xz/Ma2",
+            "subject": "A536949272",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1752261207",
+            "mis_id": "15591",
+            "name": "10xz/Ma3",
+            "code": null,
+            "description": "10xz/Ma3",
+            "subject": "A536949272",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1853097966",
+            "mis_id": "15592",
+            "name": "10xz/Ma4",
+            "code": null,
+            "description": "10xz/Ma4",
+            "subject": "A536949272",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1684593529",
+            "mis_id": "15593",
+            "name": "10xz/Ma5",
+            "code": null,
+            "description": "10xz/Ma5",
+            "subject": "A536949272",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A2054127376",
+            "mis_id": "15594",
+            "name": "10xz/Ma6",
+            "code": null,
+            "description": "10xz/Ma6",
+            "subject": "A536949272",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:11:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1885474987",
+            "mis_id": "15640",
+            "name": "10y/Bi1",
+            "code": null,
+            "description": "10y/Bi1",
+            "subject": "A1811287457",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:42.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        },
+        {
+            "id": "A1986442306",
+            "mis_id": "15641",
+            "name": "10y/Ch1",
+            "code": null,
+            "description": "10y/Ch1",
+            "subject": "A1944107525",
+            "alternative": null,
+            "priority": null,
+            "academic_year": null,
+            "restored_at": null,
+            "created_at": {
+                "date": "2023-09-05 11:01:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2023-09-05 11:10:37.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "meta": null
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "next": "https://api.wonde.com/v1.0/schools/A1930499544/classes?page=2",
+            "previous": null,
+            "more": true,
+            "per_page": 50,
+            "current_page": 1
+        },
+        "includes": [
+            "employees",
+            "employees.contact_details",
+            "employees.employment_details",
+            "employees.extended_details",
+            "lessons",
+            "lessons.period",
+            "lessons.room",
+            "students",
+            "students.boarding",
+            "students.campus",
+            "students.contact_details",
+            "students.education_details",
+            "students.extended_details",
+            "students.house",
+            "students.registration",
+            "students.year",
+            "subject"
+        ]
+    }
+}

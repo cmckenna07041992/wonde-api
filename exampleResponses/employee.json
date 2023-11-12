@@ -1,0 +1,66 @@
+{
+    "data": {
+        "id": "A199135293",
+        "upi": "46226aeb495303b3c665457233879ee4",
+        "mis_id": "6903",
+        "initials": "MA",
+        "title": "Mrs",
+        "surname": "Anderson",
+        "forename": "Mary",
+        "middle_names": null,
+        "legal_surname": "Anderson",
+        "legal_forename": "Mary",
+        "gender": null,
+        "date_of_birth": null,
+        "restored_at": null,
+        "updated_at": {
+            "date": "2023-11-10 14:08:47.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "created_at": {
+            "date": "2016-01-28 14:43:32.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "classes": { "data": [] }
+    },
+    "meta": {
+        "includes": [
+            "allowances",
+            "allowances.contract",
+            "behaviours",
+            "behaviours.students",
+            "campus",
+            "classes",
+            "classes.lessons",
+            "classes.lessons.period",
+            "classes.lessons.room",
+            "classes.subject",
+            "contact_details",
+            "contracts",
+            "contracts.roles",
+            "contracts.salary",
+            "contracts.salary.allowances",
+            "contracts.salary.scales",
+            "employee_absences",
+            "employment_checks",
+            "employment_details",
+            "extended_details",
+            "groups",
+            "hierarchy",
+            "hierarchy.employment_details",
+            "identifiers",
+            "next_of_kin",
+            "photo",
+            "qualifications",
+            "roles",
+            "roles.contract",
+            "salary",
+            "salary.contract",
+            "scales",
+            "scales.contract",
+            "user_defined_fields"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "id": "A1368212571",
+        "mis_id": "15608",
+        "name": "10A/As1",
+        "code": null,
+        "description": "10A/As1",
+        "subject": "A1787713350",
+        "alternative": null,
+        "priority": null,
+        "academic_year": null,
+        "restored_at": null,
+        "created_at": {
+            "date": "2023-09-05 11:01:49.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "updated_at": {
+            "date": "2023-09-05 11:10:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "meta": null
+    },
+    "meta": {
+        "includes": [
+            "employees",
+            "employees.contact_details",
+            "employees.employment_details",
+            "employees.extended_details",
+            "lessons",
+            "lessons.period",
+            "lessons.room",
+            "students",
+            "students.boarding",
+            "students.campus",
+            "students.contact_details",
+            "students.education_details",
+            "students.extended_details",
+            "students.house",
+            "students.registration",
+            "students.year",
+            "subject"
+        ]
+    }
+}

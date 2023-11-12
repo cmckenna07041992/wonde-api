@@ -1,0 +1,24 @@
+curl https://api.wonde.com/v1.0 \
+    -H "Authorization: Bearer 1824e155584a8bb751556c903c65da7f910337da"
+
+curl "https://api.wonde.com/v1.0/schools"
+    -H "Authorization: Bearer 1824e155584a8bb751556c903c65da7f910337da"
+
+curl "https://api.wonde.com/v1.0/schools/A1930499544" -H "Authorization: Bearer 1824e155584a8bb751556c903c65da7f910337da"
+
+curl "https://api.wonde.com/v1.0/schools/A1930499544/employees" -H "Authorization: Bearer 1824e155584a8bb751556c903c65da7f910337da"
+
+curl "https://api.wonde.com/v1.0/schools/A1930499544/classes" -H "Authorization: Bearer 1824e155584a8bb751556c903c65da7f910337da"
+
+curl "https://api.wonde.com/v1.0/schools/A1930499544/classes/A1368212571" -H "Authorization: Bearer 1824e155584a8bb751556c903c65da7f910337da"
+
+curl "https://api.wonde.com/v1.0/schools/A1930499544/students" -H "Authorization: Bearer 1824e155584a8bb751556c903c65da7f910337da"
+
+curl "https://api.wonde.com/v1.0/schools/A1930499544/employees/A571916931?include=classes" -H "Authorization: Bearer 1824e155584a8bb751556c903c65da7f910337da"
+
+curl "https://api.wonde.com/v1.0/schools/A1930499544/counts?include=students,contacts,employees"
+    -H "Authorization: Bearer 1824e155584a8bb751556c903c65da7f910337da"
+
+curl "https://api.wonde.com/v1.0/schools/A1930499544/lessons"
+    -H "Authorization: Bearer 1824e155584a8bb751556c903c65da7f910337da"
+
